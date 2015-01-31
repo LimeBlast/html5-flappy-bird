@@ -10,7 +10,6 @@ var gulp = require('gulp')
   , uglify = require('gulp-uglify')
   , connect = require('gulp-connect')
   , ghpages = require('gh-pages')
-  , path = require('path')
   , paths;
 
 paths = {
