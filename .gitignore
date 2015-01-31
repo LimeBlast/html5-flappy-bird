@@ -1,9 +1,5 @@
-# Created by .ignore support plugin (hsz.mobi)
-
-### JetBrains template
-# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
-
-*.iml
-
-## Directory-based project format:
+.DS_Store
+*.db
+node_modules/
+bower_components/
 .idea/
